@@ -1,0 +1,13 @@
+# PyCharm
+.idea/
+
+# Virtual env
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Zip files
+*.zip
